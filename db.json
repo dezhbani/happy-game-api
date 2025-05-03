@@ -1,0 +1,169 @@
+{
+  "sliders": [
+    {
+      "images": [
+        "/images/sliders/slide1.jpg",
+        "/images/sliders/slide2.png",
+        "/images/sliders/slide3.png",
+        "/images/sliders/slide4.png",
+        "/images/sliders/slide5.png"
+      ],
+      "card": {
+        "tag": "مقاله جدید",
+        "title": "Call of Duty Warzone",
+        "content": "مانند دیگر بازی‌های بتل رویال سوار یک هواپیما خواهید شد و روی نقشه فرود خواهید آمد. وجه تفاوت این بازی نسبت به بقیه در تعداد بازیکنان آناین بازی نسبت به بقیه در تعداد بازیکنان آن اس است.",
+        "comments": 20
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "title": "ویدیو نقد و بررسی بازی",
+      "name": "Alan Wake 2",
+      "image": "/images/reviews/review1.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "ویدیو نقد و بررسی بازی",
+      "name": " The Last of Us Part 1",
+      "image": "/images/reviews/review2.png"
+    },
+    {
+      "id": 3,
+      "title": "ویدیو نقد و بررسی بازی",
+      "name": "Metal Gear Solid Delta: Snake Eater",
+      "image": "/images/reviews/review3.jpeg"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "بازی Hello Neighbor منتشر شد",
+      "description": "سلام همسایه از خاص ترین، زیباترین و محبوب ترین بازیهای ماجراجویی – ترسناک با ساخت فوق العاده از tinyBuild برای اندروید است که دقایقی پیش ...",
+      "image": "/images/articles/article1.png",
+      "tags": [
+        "سبک پازل",
+        "بازی های فکری"
+      ],
+      "readCount": 700
+    },
+    {
+      "id": 2,
+      "title": "بازی NBA 2K 2023 رکورد پرفروش ترین بازی ورزشی را شکست.",
+      "description": "NBA 2K 2023 توانست با گرافیک فوق‌العاده، حالت‌های بازی جدید، و واقعیت‌افزوده، رکورد فروش بیشترین بازی ورزشی را شکسته و تجربه بسکتبال را به سطحی ناموصوف برساند. برای عشاق ورزش و بازی‌های رقابتی، این نسخه یک پرش زیبا به جهان ورزش الکترونیکی است.",
+      "image": "/images/articles/article4.png",
+      "tags": [
+        "اخبار",
+        "ورزشی"
+      ],
+      "readCount": 200
+    },
+    {
+      "id": 3,
+      "title": "نسخه جدید اساسینس کرید با عنوان (میراژ) منتشر شد.",
+      "description": "Assassin's Creed Mirage بازگشتی به ریشه‌های سری بازی‌های اکشن-ماجراجویی معروف اساسینس کرید است. در این نسخه، بازیکنان به دنیای پر از راز و تاریخی شهر بغداد سفر می‌کنند و با داستانی جذاب و شخصیت‌های چالش‌برانگیز رو به رو می‌شوند.",
+      "image": "/images/articles/article2.png",
+      "tags": [
+        "اکشن",
+        "اکشن",
+        "بازی های جدید"
+      ],
+      "readCount": 542
+    },
+    {
+      "id": 4,
+      "title": "موسیقی بازی The Last of Us رکورد دار بیشترین دانلود.",
+      "description": "موسیقی The Last of Us با الهام‌بخش بودن و عمق احساسی خود، توانست رکورد بیشترین دانلود را به دست آورد. این موسیقی، که با داستان محنت‌آمیز و جهانی ویران شده بازی همخوانی می‌کند، یادآور اهمیت صدا در تجربه گیمپلی است.",
+      "image": "/images/articles/article3.png",
+      "tags": [
+        "موسیقی"
+      ],
+      "readCount": 32
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "بازی FIFA 23 برای کنسول پلی استیشن ۵",
+      "price": "قیمت 4/500 هزار تومان",
+      "image": "/images/products/fifa.png",
+      "buyerCount": 257
+    },
+    {
+      "id": 2,
+      "name": "بازی Fortnite برای کنسول پلی استیشن ۵",
+      "price": "قیمت 3/450 هزار تومان",
+      "image": "/images/products/fortnite.jpg",
+      "buyerCount": 257
+    },
+    {
+      "id": 3,
+      "name": "بازی Diablo 4 برای کنسول پلی استیشن ۵",
+      "price": "قیمت 3/6500 هزار تومان",
+      "image": "/images/products/diablo.jpg",
+      "buyerCount": 257
+    },
+    {
+      "id": 4,
+      "name": "بازی Call Of Duty برای کنسول پلی استیشن ۵",
+      "price": "قیمت 2/300 هزار تومان",
+      "image": "/images/products/CallOfDuty.png",
+      "buyerCount": 257
+    }
+  ],
+  "trailers": [
+    {
+      "id": 1,
+      "title": "نخستین تریلر گیم‌پلی بازی Marvel’s Spider-Man 2 منتشر شد.",
+      "image": "/images/trailers/trailer1.png",
+      "viewCount": 32,
+      "author": {
+        "name": "متین دژبانی",
+        "profileImage": "/images/trailers/trailer4.png"
+      },
+      "publishTime": "یک ماه پیش"
+    },
+    {
+      "id": 2,
+      "title": "اوین لانچ تریلر سینمایی و لایو اکشن بازی Diablo 4 ",
+      "image": "/images/trailers/trailer2.jpeg",
+      "viewCount": 300,
+      "author": {
+        "name": "متین دژبانی",
+        "profileImage": "/images/trailers/trailer4.png"
+      },
+      "publishTime": "دو هفته پیش"
+    },
+    {
+      "id": 3,
+      "title": "تریلر جذاب بازی Marathon",
+      "image": "/images/trailers/trailer3.png",
+      "viewCount": 21,
+      "author": {
+        "name": "متین دژبانی",
+        "profileImage": "/images/trailers/trailer4.png"
+      },
+      "publishTime": "سه روز پیش"
+    },
+    {
+      "id": 4,
+      "title": "تریلر نسخه جدید Call Of Duty Mobile",
+      "image": "/images/trailers/trailer4.png",
+      "viewCount": 21,
+      "author": {
+        "name": "متین دژبانی",
+        "profileImage": "/images/trailers/trailer4.png"
+      },
+      "publishTime": "دو روز پیش"
+    }
+  ],
+  "trailerVideo": [
+    {
+      "title": "تریلر رسمی بازی Metal Gear Solid Delta: Snake Eater",
+      "description": "شایعه ساخت Metal Gear Solid Delta: Snake Eater قوت گرفت. طبق گفته ها و نشریات وابسته به استودیو های سازنده این عنوان خاطره انگیز، خبر های خوبی از ساخت نسخه ریمیک و یا همان بهبود یافته در راه است.",
+      "video": "/images/trailers/Trailer.mp4",
+      "poster": "/images/reviews/review3.jpeg"
+    }
+  ]
+}
